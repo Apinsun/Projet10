@@ -221,3 +221,5 @@ __marimo__/
 # Repo data
 mri_dataset_brain_cancer_oc
 documents
+
+*.pth
